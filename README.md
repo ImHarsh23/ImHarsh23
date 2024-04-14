@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar Singh</h1>
+
+<img src="https://i.ibb.co/0J9TdTC/github-header-image-2.png" alt="banner" height="300px" width="1000px"/>
 <h3 align="center">Welcome to my coding universe! I'm a passionate software engineer with expertise in HTML, CSS, JavaScript, NodeJs, Express, React and Data Structure. I thrive on turning ideas into elegant solutions and am deeply fascinated by data structures and algorithms.</h3>
 
-<img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="banner" height="300px" width="1000px"/>
 
 
 - 🔭 I’m currently working on [**Medium Clone**](https://github.com/ImHarsh23/Medium-using-Handlebar)
