@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **harshkumar23x@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1d_H2ElbihZnDaIPGg_2038CLFGODYVxw/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1ZJcJYoZlU0TaT5UwiTe_SX2RxKHNlpj1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
