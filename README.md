@@ -4,7 +4,7 @@
 <img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="banner" height="300px" width="1000px"/>
 
 
-- 🔭 I’m currently working on [**StudyNotion**](https://study-notion-prime.vercel.app/)
+- 🔭 I’m currently working on [**Medium Clone**](https://github.com/ImHarsh23/Medium-using-Handlebar)
 
 - 🌱 I’m currently learning **Backend development**
 
