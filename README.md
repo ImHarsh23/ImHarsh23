@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/0J9TdTC/github-header-image-2.png" alt="banner"/>
-<h3 align="center">Welcome to my coding universe! I'm a passionate software engineer with expertise in HTML, CSS, JavaScript, NodeJs, Express, React and Data Structure. I thrive on turning ideas into elegant solutions and am deeply fascinated by data structures and algorithms.</h3>
+<h3 align="center">Welcome to my coding universe! I'm a passionate web developer with expertise in HTML, CSS, JavaScript, NodeJs, Express, React and Data Structure. I thrive on turning ideas into elegant solutions and am deeply fascinated by data structures and algorithms.</h3>
 
 
 
