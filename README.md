@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Chat App**](https://github.com/ImHarsh23/Chat-App)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [**My studio**](https://my-studio.vercel.app/)
 
