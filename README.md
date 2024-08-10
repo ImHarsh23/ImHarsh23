@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [**Chat App**](https://github.com/ImHarsh23/Chat-App)
+- 🔭 I’m currently working on [**Oodle**](https://github.com/ImHarsh23/Oodle-Foodie-Manager/tree/master/backend)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [**My studio**](https://my-studio.vercel.app/)
 
